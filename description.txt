@@ -1,0 +1,27 @@
+[c/3ABC7A:Description:]
+Hey hey, this is a MrPlague's Authentic Races addon, featuring Fallout's most fierce predator.
+These might be a bit OP, but honestly, who's gonna judge us?
+
+The sprites/sounds are low-effort. I'm not a great artist, nor a great coder. Credits to the original assets go to MrPlague, the death sound comes from Fallout 4.
+
+Hey, rewrite the guide to publishing mods; there's no option to link to github as described in your guides. If I'm really that stupid, (or if this mod has issues you wanna report), contact me on discord @Apzen#1984
+
+[c/3ABC7A:Races:]
+-Deathclaw
+-Glowing Deathclaw
+
+[c/3ABC7A:Updates:]
+I recently fixed up some of the poorly written stuff, but there's a couple of things I wanted to write here for posterity.
+
+Update 0.1.1 Changelog:
+☢ Added Mod of Redemption interaction (Deathclaws are now immune to radiation!). Note, you don't need Mod of Redemption to play a Deathclaw. This is just a nice bonus if you do.
+☢ Reduced the rate of spawns (the thing used in the tooltip mentioning the difficulty is increased if you play deathclaws).
+
+[c/3ABC7A:Credits:]
+-MrPlague (spriter, animator, and coder)
+-CrocWithShades (betatester)
+-Dragons Tired (betatester)
+-Blaquestone (gameplay balance)
+-Fallout_Patriot (gameplay balance, betatester)
+
+-Bethesda (Fallout, Deathclaws, and the death sound)
